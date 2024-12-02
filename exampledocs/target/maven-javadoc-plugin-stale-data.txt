@@ -1,0 +1,49 @@
+@options
+@packages
+@argfile
+-encoding
+'Cp1252'
+-protected
+-source
+'1.8'
+-sourcepath
+'i:/PROYECTOSVSCODE/example-java-documentation/exampledocs/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'i:/PROYECTOSVSCODE/example-java-documentation/exampledocs/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'exampledocs 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'i:/PROYECTOSVSCODE/example-java-documentation/exampledocs/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'exampledocs 1.0-SNAPSHOT API'
+com.elloza.mvc
+com.elloza.view
+'i:/PROYECTOSVSCODE/example-java-documentation/exampledocs/src/main/java/com/elloza/mvc/Main.java'
+'i:/PROYECTOSVSCODE/example-java-documentation/exampledocs/src/main/java/com/elloza/view/View.java'
+i:\PROYECTOSVSCODE\example-java-documentation\exampledocs\src\main\java = 1733149838540
+i:\PROYECTOSVSCODE\example-java-documentation\exampledocs\target\site\apidocs\allclasses-index.html = 1733149984943
+i:\PROYECTOSVSCODE\example-java-documentation\exampledocs\target\site\apidocs\allpackages-index.html = 1733149984946
+i:\PROYECTOSVSCODE\example-java-documentation\exampledocs\target\site\apidocs\element-list = 1733149984890
+i:\PROYECTOSVSCODE\example-java-documentation\exampledocs\target\site\apidocs\help-doc.html = 1733149984964
+i:\PROYECTOSVSCODE\example-java-documentation\exampledocs\target\site\apidocs\index-all.html = 1733149984958
+i:\PROYECTOSVSCODE\example-java-documentation\exampledocs\target\site\apidocs\index.html = 1733149984932
+i:\PROYECTOSVSCODE\example-java-documentation\exampledocs\target\site\apidocs\jquery-ui.overrides.css = 1733149984987
+i:\PROYECTOSVSCODE\example-java-documentation\exampledocs\target\site\apidocs\member-search-index.js = 1733149984950
+i:\PROYECTOSVSCODE\example-java-documentation\exampledocs\target\site\apidocs\module-search-index.js = 1733149984947
+i:\PROYECTOSVSCODE\example-java-documentation\exampledocs\target\site\apidocs\overview-summary.html = 1733149984960
+i:\PROYECTOSVSCODE\example-java-documentation\exampledocs\target\site\apidocs\overview-tree.html = 1733149984928
+i:\PROYECTOSVSCODE\example-java-documentation\exampledocs\target\site\apidocs\package-search-index.js = 1733149984948
+i:\PROYECTOSVSCODE\example-java-documentation\exampledocs\target\site\apidocs\script.js = 1733149984967
+i:\PROYECTOSVSCODE\example-java-documentation\exampledocs\target\site\apidocs\search.js = 1733149984969
+i:\PROYECTOSVSCODE\example-java-documentation\exampledocs\target\site\apidocs\stylesheet.css = 1733149984966
+i:\PROYECTOSVSCODE\example-java-documentation\exampledocs\target\site\apidocs\tag-search-index.js = 1733149984950
+i:\PROYECTOSVSCODE\example-java-documentation\exampledocs\target\site\apidocs\type-search-index.js = 1733149984949
